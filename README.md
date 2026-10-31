@@ -6,13 +6,35 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com formação téc
 
 Tenho mais de nove anos de experiência profissional em outra área, onde desenvolvi organização, capacidade analítica e resolução de problemas. Hoje direciono essa experiência para a engenharia de software e busco minha primeira oportunidade formal como **Desenvolvedor Full Stack Júnior**.
 
-### Tecnologias e práticas
+### 🧑‍💻 Linguagens de programação
 
-- **Front-end:** React, TypeScript, JavaScript, HTML, CSS, Vite.
-- **Back-end:** Node.js, Express, Fastify, Python; conhecimentos em Java e orientação a objetos.
-- **Dados:** MySQL/MariaDB, PostgreSQL, SQLite, SQL, Drizzle ORM.
-- **Ferramentas:** Git, GitHub, Docker, APIs REST, testes automatizados e documentação.
-- **Interesses:** arquitetura de software, segurança, automação e ferramentas de IA.
+**Utilizadas diretamente nos projetos publicados**
+
+| Linguagem | Aplicação prática |
+| --- | --- |
+| **TypeScript** | Desenvolvimento de aplicações Full Stack: Comandiva, Clínica One, Dashboard Universal e Reparo360. |
+| **JavaScript** | Interfaces web, ferramentas de desenvolvimento e scripts de automação. |
+| **Python** | Desenvolvimento do JARVIS: assistente pessoal, voz, integrações e automação no Windows. |
+| **SQL** | Consultas e modelagem de dados em MySQL/MariaDB, PostgreSQL e SQLite. |
+| **HTML e CSS** | Construção e estilização de interfaces web responsivas. |
+
+**Conhecimentos adquiridos na formação e em atividades de programação**
+
+- **Java:** programação orientada a objetos, classes, métodos, herança, encapsulamento e lógica de programação.
+- **C:** fundamentos de programação e desenvolvimento de raciocínio lógico.
+
+> Java e C são apresentados como **conhecimentos de estudo**, não como experiência profissional ou stack principal dos sistemas publicados.
+
+### 🛠️ Tecnologias, frameworks e ferramentas
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Front-end** | React, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, interfaces responsivas e PWA. |
+| **Back-end e APIs** | Node.js, Express, Fastify, tRPC, Zod, APIs REST e integrações externas. |
+| **Bancos de dados** | PostgreSQL, MySQL/MariaDB, SQLite, SQL e Drizzle ORM. |
+| **Desktop e visualização** | Python, Electron, Chart.js, Leaflet, dashboards e mapas interativos. |
+| **DevOps e qualidade** | Git, GitHub, Docker, Docker Compose, GitHub Actions (CI/CD), Vitest, ESLint e testes automatizados. |
+| **Práticas de engenharia** | Organização modular do código, controle de acesso, validação de dados, documentação e análise de erros. |
 
 ### Projetos em destaque
 
