@@ -1,6 +1,6 @@
-# Olá! Eu sou Maycon Meneses 👋
+# Olá! Eu sou Maycon Meneses 
 
-**Desenvolvedor Full Stack** · React · TypeScript · Node.js · Python · SQL
+**Desenvolvedor Full Stack** · React · TypeScript · Java · Node.js · Python · SQL
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com formação técnica em Informática. Desenvolvo aplicações web, sistemas de gestão, dashboards e automações com foco em resolver problemas reais.
 
